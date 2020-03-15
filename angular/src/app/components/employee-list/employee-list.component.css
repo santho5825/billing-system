@@ -1,0 +1,8 @@
+#billList, #billItems{
+    border-collapse: collapse;
+}
+
+#billItems
+{
+    border-style: hidden;    
+}
